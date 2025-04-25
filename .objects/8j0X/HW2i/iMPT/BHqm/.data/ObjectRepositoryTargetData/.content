@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bSJiabn2I0a5dRPXlHQ9Sg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="voice.google.com/u/0/messages" CVScreenId="c65e750e-8a07-4b4d-abc6-dbd4779e3929" CvElementArea="1087, 665, 99, 50" CvTextArea="1107, 681, 57, 17" CvTextArgument="Delete" CvType="Button" DesignTimeRectangle="1086, 664, 99, 50" DesignTimeScaleFactor="1.25" ElementType="Button" Guid="fcb33035-be36-4a6f-9e09-541e1801ac9d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Voice - Messages' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b48bbac534d7b2ce1474f3acd8697aa4.png" xmlns="">0DdSV6CHvOk2JEFC7ej2Vkw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

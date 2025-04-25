@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RpOK4uw0uk-QArebR6Xcgg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="voice.google.com/u/0/messages" CVScreenId="04983111-fdb4-4617-bbe7-676dd201c4a9" CvTextArea="641, 985, 131, 21" CvTextArgument="Type a message" CvType="Text" DesignTimeRectangle="644, 982, 770, 25" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='TEXTAREA' type='text' class='cdk-textarea-autosize message-input ng-pristine ng-valid ng-touched' placeholder='Type a message' aaname='' /&gt;" Guid="1594df23-89d1-47e9-9874-a99b25ea6985" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Voice - Messages' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1422, 969, 50, 50" FuzzySelectorArgument="&lt;webctrl type='' class='button-container dense-icon-button-container' parentid='messaging-view' tag='DIV' aaname='' /&gt;" Guid="ba95cecb-79dd-4886-b963-45accf00c853" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fc50001afe78b4ae686c87bf1b5e1680.png" xmlns="">0DtS7CaCJi0WS1HerzAXC9w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

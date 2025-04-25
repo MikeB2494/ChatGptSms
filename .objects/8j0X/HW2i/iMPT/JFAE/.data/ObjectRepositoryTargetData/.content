@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mJtQ5SN9JEGy6kLYlAwcTg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="voice.google.com/u/0/messages" CVScreenId="3297765d-3e49-407a-8e94-41937b51d646" CvElementArea="761, 679, 30, 36" CvType="Icon" DesignTimeRectangle="759, 681, 34, 34" DesignTimeScaleFactor="1.25" ElementType="Icon" FuzzyMatches="10000" FuzzySelectorArgument="&lt;webctrl type='' parentid='messaging-view' tag='svg' class='' aaname='' /&gt;" Guid="5e5242e2-db33-47d8-b3bb-18d5c0cf58bd" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAYAAAA6RwvCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADjSURBVFhH7ZbJDoIwEIZ5dE9eTAzGDbfHMSprJTyAG/oIQDmMaQ9EBw5lxEBIv2Qu7X/40hnIGNARDHzQFloEo0Uw/RBxfQbmfC3LZyG+rgVZ5HK9wWA4+qr4+cIxZcgi+6NdEjmcXBxThixS9SL3R4xjypBFBI4XwHhmgblocUaaph8inHNgYSQrz3N8XQuySJKkMFluikGdrnZSjApZxPaC0lfzy8CSRRyflUTc4IxjypBFRGvEr71ojbWFNM1wTBmyiCDLuGxHq8PaNP0Q0WvAJ3oNqEKvAf9Ei2C0CKYzIm+R5K4+3SZIqwAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Voice - Messages' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5b762224f51b4a4c9213dd9bfe38ae21.png" xmlns="">0vQ7AzMNt2kySJF2Azde9gA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

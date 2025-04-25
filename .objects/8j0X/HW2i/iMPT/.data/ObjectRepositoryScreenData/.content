@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="Vyt1hMj_yUWK07RifP0P7w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJeSURBVFhH3ZfPatRQFMYvCLoSZicUF7OqqEmNk7TgRuJCsBSGmDuu9Q2cN+htg9CFaEFUECFTBvNnNb5BH6GPMI8wjxA5mcnMvef+yY3VQfzgo4u53zm/3OQmp4T8DwoKehnk8RX89bOX534WRV4a9fA6KwVlfFwXKulr/JtKQR6FQUErlf2Cpl4e9XFGq6CIPwpFyvgYr8EyAawg5lYXM8jjNzhsA9EGYFuHAKkUsghbA5jqWBXRhK2ynP2MRrgG2ZsOGV6otAqCOeGts8fV7fcHVf/b88qdDuWc6IV8Qk7cCYQVixWOx0KWOSFJ3KrxzbNBDSLnOOcxE2oAAIRbg0v/FLIIoPHO5xDneC+EGg2ADYSf0XMhqwEA30sPpfza+SjcFDlxGB/UQfg5nfC9axkA4HbgGhvztzJxIxzGEMrmIAMAWLcL8Mrming9HOQhpG3n1QJw59NTqTl4v6CpWChxL3EYvPv9hfjQYWngG/c+PJGa1xclvZ5PH45xeOfL8kk+kBb/DS2vZIGbN94OxOo04Obbg2Be7+7XZwvceKsQfkkj3BS7DcL78coLSjqD+QL/ZiU487gptg4CmvsFXe+ifNwsBF8r43yggcDN11Z9RdsEs1wXCG3z60Dsw700FV3ZmQ6Zsfl1IUw78eDiqLrx7pH07dD6dyB0t6Np3ry8bCHws2OlGoI7Hbh5Rwg0kHTQIBuN70+O5qrmthCwm7huNzGvT5LNFKWyDgKad/pvyagNyBwDqCD8nM7kifhPKYHBZO8tSZwZSRyYLebk1LnaTQ9nQT5i4gz4D+kXzLgMUNku7ecAAAAASUVORK5CYII=" Selector="&lt;html app='chrome.exe' title='Voice - Messages' /&gt;" Url="https://voice.google.com/u/0/messages?itemId=t.%2B15512025880" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="6e2f0ef882366cb743d88f92b4176bf6.jpg" xmlns="">05KAYI0cwGUGkt5LTCn4PNQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

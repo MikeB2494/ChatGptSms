@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ES2NN4OgtE-NoPrJ-DwObg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="voice.google.com/u/0/messages" CVScreenId="527db4fc-48e1-4a75-888d-b0214f913b6f" CvTextArea="770, 762, 58, 18" CvTextArgument="Delete" CvType="Text" DesignTimeRectangle="771, 758, 100, 30" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname=' Delete ' parentid='mat-menu-panel-1' tag='SPAN' type='' class='mat-mdc-menu-item-text' check:innerText='Delete' /&gt;" Guid="db6ea706-d553-42a2-bd4c-8a82d4fd90ba" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Voice - Messages' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="527db4fc-48e1-4a75-888d-b0214f913b6f" CvTextArea="770, 762, 58, 18" CvTextArgument="Delete" CvType="Text" DesignTimeRectangle="751, 743, 140, 60" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-label='Delete message' aria-role='menuitem' tag='BUTTON' type='' class='mat-mdc-menu-item mat-focus-indicator ng-star-inserted' aaname=' Delete ' check:innerText='Delete' /&gt;" Guid="b4b0b7ea-1819-45c2-8ec6-a7f74fef792b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d1b566adaa7046fd6b73564bc0e1766b.png" xmlns="">0f_8tEfskek24Ob5CF3jIDw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

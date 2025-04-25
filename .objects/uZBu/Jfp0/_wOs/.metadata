@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Open ChatGpt",
+  "Type": "Screen",
+  "Id": "_wOsr9r7u0S66cNjFZr3jA",
+  "Reference": "6sgP0iOssEWTVIoDXGoXNQ/_wOsr9r7u0S66cNjFZr3jA",
+  "ParentRef": "6sgP0iOssEWTVIoDXGoXNQ/Jfp0cG-jMkeDHzLOXX_POw",
+  "Created": "2025-04-25T05:05:10.4997465Z",
+  "Updated": "2025-04-25T05:05:10.4997465Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
